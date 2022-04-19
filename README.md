@@ -1,4 +1,4 @@
-# Hi, my name is Rayner Toh 👋.
+# Hi, my name is Rayner Toh.
 
 ***
 
