@@ -4,9 +4,8 @@
 
 ## Some facts about me:
 
-- 😄 Prospective NUS Computer Science undergraduate, matriculating in 2022.
-- 💻 Currently learning web development through The Odin Project.
-- 🕹️ My current skills include HTML, CSS and JavaScript.
+- 😄 I'm a Y1 NUS Computer Science undergraduate.
+- 🕹️ My current skills include React, Next.js and Redux.
 
 ## Contact me:
 
