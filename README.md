@@ -1,11 +1,4 @@
-# Hi, my name is Rayner Toh.
-
-***
-
-## Some facts about me:
-
-- 😄 I'm a Y1 NUS Computer Science undergraduate.
-- 🕹️ My current skills include React, Next.js and Redux.
+raynertjx
 
 ## Contact me:
 
