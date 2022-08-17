@@ -1,7 +1,8 @@
-
+# 👋 Hi I'm Rayner!
 
 ## Contact me:
 
+- [Personal Website](https://www.raynetoh.dev/)
 - [LinkedIn](https://www.linkedin.com/in/rayner-toh-90a3b11b4/)
 
 <!--
