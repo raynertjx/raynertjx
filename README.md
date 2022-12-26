@@ -9,6 +9,7 @@
 
 - [Personal Website](https://www.raynertoh.dev/)
 - [LinkedIn](https://www.linkedin.com/in/raynertoh/)
+- [Email](rayner742@gmail.com)
 
 <!--
 **raynertjx/raynertjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
