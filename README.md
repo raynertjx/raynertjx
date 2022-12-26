@@ -2,6 +2,7 @@
 
 - I'm a Y1 Computer Science undergraduate at NUS.
 - The latest project I've worked on is my personal [portfolio site](https://www.raynertoh.dev/).
+- I love coffee and building mechanical keyboards.
 
 ### Languages & Tools 👨🏻‍💻
 <p align="left">  
