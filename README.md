@@ -2,7 +2,7 @@
 
 ### A few facts about me 👾
 - I'm a Y1 Computer Science undergraduate at NUS.
-- My current skills include React and Next.js.
+- My current skills include React and TypeScript.
 - The latest project I've worked on is my personal [portfolio site](https://www.raynertoh.dev/).
 
 ### Contact me ✉️
