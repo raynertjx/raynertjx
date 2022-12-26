@@ -1,4 +1,4 @@
-## Hi I'm Rayner Toh! 👋 
+# Hi I'm Rayner Toh! 👋 
 
 ### A few facts about me 👾
 - I'm a Y1 Computer Science undergraduate at NUS.
