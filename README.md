@@ -1,6 +1,6 @@
 # Hi I'm Rayner Toh! 👋🏼
 
-- I'm a Y1 Computer Science undergraduate at NUS.
+- I'm a Y2 Computer Science undergraduate at NUS.
 - The latest project I've worked on is my personal [portfolio site](https://www.raynertoh.dev/).
 - I love making subpar latte art and building mechanical keyboards.
 
