@@ -2,7 +2,6 @@
 
 - I'm a Y2 Computer Science undergraduate at NUS.
 - The latest project I've worked on is my personal [portfolio site](https://www.raynertoh.dev/).
-- I drink my coffee black!
 
 <!-- ### Languages & Tools 👨🏻‍💻
 <p align="left">  
